@@ -7,7 +7,7 @@ This script is nothing but a bash executable file wich can be run with the follo
 bash Vernalis/vernalis.sh
 ```
 
-For the user's convenience the author suggest using the alias `chenv`that stands for `check environment` 
+For the user's convenience the author suggest using the alias `chenv` that stands for `check environment` 
 
 ## :dart: Future development goal
 - [ ] Insertion to the Oh-my-bash Plugin library
